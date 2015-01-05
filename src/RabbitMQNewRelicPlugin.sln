@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQNewRelicPlugin", "RabbitMQNewRelicPlugin.csproj", "{179098CF-A2AB-4A82-B8B5-8D55ACED93C6}"
+EndProject
+Global
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = b00ccd24-dfa8-4eff-b632-276845c740cf
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179098CF-A2AB-4A82-B8B5-8D55ACED93C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179098CF-A2AB-4A82-B8B5-8D55ACED93C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179098CF-A2AB-4A82-B8B5-8D55ACED93C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179098CF-A2AB-4A82-B8B5-8D55ACED93C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
