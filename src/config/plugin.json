@@ -1,0 +1,11 @@
+﻿{
+    "agents": [
+        {
+            "name": "Dev-Machine",
+            "hostname": "localhost",
+            "vhost": "test",
+            "username":  "guest",
+            "password":  "guest"
+        }
+    ]
+}

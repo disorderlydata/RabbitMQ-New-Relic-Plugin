@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NewRelic.Platform.Sdk;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace RabbitMQNewRelicPlugin
     {
         static void Main(string[] args)
         {
+            Runner runner = new Runner();
+            runner.Add(new RabbitMQPluginAgentFactory());
+            runner.SetupAndRun();
         }
     }
 }
